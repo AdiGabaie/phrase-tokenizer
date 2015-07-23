@@ -1,0 +1,4 @@
+org\elasticsearch\plugin\example\PhraseTokenizer.class
+org\elasticsearch\plugin\example\PhraseBinderProcessor.class
+org\elasticsearch\plugin\example\PhrasePlugin.class
+org\elasticsearch\plugin\example\PhraseTokenizerFactory.class
